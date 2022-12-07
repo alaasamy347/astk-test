@@ -10155,7 +10155,7 @@ a:hover {
     max-width: 915px;
   } */
   .deal-block__col{
-    max-width: 1000px;
+    max-width: 1080px;
   }
   .header-nav__item {
     padding: 0 10px;
@@ -10270,7 +10270,7 @@ a:hover {
     margin: 0 -15px;
   }
   .header-nav__item {
-    padding: 0 15px;
+    padding: 0 10px;
   }
   .user-nav {
     margin: 0 -15px;
