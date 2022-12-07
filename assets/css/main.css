@@ -9623,6 +9623,9 @@ body.compensate-for-scrollbar .header {
         height: 50px;
         color: #a6a6a6;
         padding: 0;
+        background-image: unset;
+        background-repeat: no-repeat;
+        box-shadow: unset;
       }
     }
   }
