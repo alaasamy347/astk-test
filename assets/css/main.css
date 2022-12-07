@@ -6913,7 +6913,7 @@ a[href^="http://maps.google.com/maps"],a[href^="https://maps.google.com/maps"]
   background: #fff;
   border: 1px solid rgba(68, 68, 68, 0.1);
   position: sticky;
-  -webkit-position: sticky;
+  position: -webkit-sticky;
   top: 0;
 }
 .your-order__title {
@@ -9628,9 +9628,7 @@ body.compensate-for-scrollbar .header {
         box-shadow: unset;
         -webkit-appearance: none;
       }
-      .your-order {
-        display: block;
-      }
+      
     }
   }
 }
