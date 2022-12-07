@@ -10158,7 +10158,7 @@ a:hover {
     max-width: 1080px;
   }
   .header-nav__item {
-    padding: 0 10px;
+    padding: 0 7px;
   }
 }
 @media (min-width: 1550px) and (max-width: 2000px) {
