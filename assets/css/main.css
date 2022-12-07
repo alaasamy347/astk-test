@@ -9628,6 +9628,9 @@ body.compensate-for-scrollbar .header {
         box-shadow: unset;
         -webkit-appearance: none;
       }
+      .your-order {
+        display: block;
+      }
     }
   }
 }
