@@ -9623,9 +9623,8 @@ body.compensate-for-scrollbar .header {
         height: 50px;
         color: #a6a6a6;
         padding: 0;
-        background-color: #fff;
-        background-image: unset;
-        background-repeat: no-repeat;
+        background-image: url(../img/down-arrow.png);
+        border-radius: 0;
         box-shadow: unset;
         -webkit-appearance: none;
       }
@@ -9770,8 +9769,6 @@ body.compensate-for-scrollbar .header {
   color: #a6a6a6;
   padding: 0;
   box-shadow: 0;
-  background-image: unset;
-  background-color: #fff;
 }
 p.color-gray-dark {
   margin-right: 10px;
