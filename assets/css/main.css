@@ -9627,6 +9627,7 @@ body.compensate-for-scrollbar .header {
         background-image: unset;
         background-repeat: no-repeat;
         box-shadow: unset;
+        -webkit-appearance: none;
       }
     }
   }
